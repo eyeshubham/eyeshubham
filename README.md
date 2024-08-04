@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++.
 - 📫 shubhamkumar847402@gmail.com
 - 😄 Pronouns: ...he\him
-- ⚡ Fun fact:that friend who captures moments.
+- ⚡ Fun fact: Capturing moments for others to relive.
 
 <!---
 eyeshubham/eyeshubham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
